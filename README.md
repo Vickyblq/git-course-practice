@@ -6,3 +6,5 @@ This is a practice repository for learning Git basics.
  - hello.py : Simple Python script
 This project demonstrates Git and GitHub integration.
 Created during Git training course.
+
+This line was added directly on GitHub!
